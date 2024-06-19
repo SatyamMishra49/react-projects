@@ -12,6 +12,7 @@ export default function App() {
     {/* <Card username="sam" place="hyderabad" myArr={newArr}></Card>
     <Card username="max" place="bangalore"></Card> */}
     <Card myObj={myObj}></Card>
+    <Card myArr={myArr}></Card>
     </>
   )
 }
